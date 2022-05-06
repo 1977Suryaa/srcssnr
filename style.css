@@ -1,0 +1,39 @@
+body{
+text-align: center;
+background-color: blueviolet;
+border:10px solid rgb(89, 4, 138);
+color:white;
+}
+
+h2{
+    font-weight: bold;    
+    text-decoration: underline;  
+}
+#iff{
+border:10px solid rgb(189, 103, 238);
+}
+p{
+    font-size:30px;
+}
+nav{
+    position:sticky;
+    top:0;
+}
+#sss{
+    font-weight: bold; 
+    text-decoration: underline;    
+}
+button{
+    width:100%;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+.iji{
+        color:yellow;
+}
+.idd{
+    float:right; }
+    .iii{
+        float:left;
+        margin-right:10px; }
